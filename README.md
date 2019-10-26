@@ -17,6 +17,7 @@ Build requirements are:
 
 - meson
 - GTK+3
+- libdrm
 - epoxy
 - wayland-client
 
